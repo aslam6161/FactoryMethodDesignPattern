@@ -1,0 +1,15 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+
+/bin
+/obj
+/bin/Debug
+/packages
+
+
+/.vs/FactoryMethodDesignPattern/DesignTimeBuild
+/.vs/FactoryMethodDesignPattern/v16
+/.vs/FactoryMethodDesignPattern/config
+/.vs/slnx.sqlite
